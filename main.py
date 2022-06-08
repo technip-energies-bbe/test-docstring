@@ -1,0 +1,1 @@
+print("Goodbye Technip Energies")
